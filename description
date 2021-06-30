@@ -1,0 +1,43 @@
+Attack number 1
+Error On Error
+Attacker  - BREAK - with  336  successful attacks
+Writer Stoped By Attacker
+Number of Packets generated:  2422
+Time to generate Packets: 6.447522163391113
+
+Attack number 2
+Error on Error 
+Attacker GOT DONE msg
+Attacker  - BREAK - with  330  successful attacks
+Writer Stoped By Attacker
+Number of Packets generated:  2398
+Time to generate Packets: 6.570495843887329
+
+Attack number 3
+Error on Event
+Attacker  - BREAK - with  190  successful attacks
+Writer Stoped By Attacker
+Number of Packets generated:  1638
+Time to generate Packets: 4.980135440826416
+
+Attack number 4
+Error on Event
+Attacker  - BREAK - with  368  successful attacks
+Writer Stoped By Attacker
+Number of Packets generated:  3364
+Time to generate Packets: 10.26496434211731
+
+Attack number 5
+Delete Request
+Attacker  - BREAK - with  748  successful attacks
+Writer Stoped By Attacker
+Number of Packets generated:  2228
+Time to generate Packets: 7.823635816574097
+
+Attack number 6
+Delete Response 
+Attacker  - BREAK - with  589  successful attacks
+Writer Stoped By Attacker
+Number of Packets generated:  2423
+Time to generate Packets: 8.164340496063232
+
