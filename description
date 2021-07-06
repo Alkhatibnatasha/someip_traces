@@ -54,3 +54,12 @@ Attacker  - BREAK - with  735  successful attacks
 Writer Stoped By Attacker
 Number of Packets generated:  2183
 Time to generate Packets: 4.5219407081604
+
+Attacker number 9
+Delete Request
+Attacker  - BREAK - with  154  successful attacks
+Writer Stoped By Attacker
+Number of Packets generated:  1618
+Time to generate Packets: 4.695316553115845
+Writer Exiting
+
