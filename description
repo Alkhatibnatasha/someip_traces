@@ -62,4 +62,14 @@ Writer Stoped By Attacker
 Number of Packets generated:  1363
 Time to generate Packets: 5.21404767036438
 
+attack 11
+wr int
+Attacker  - BREAK - with  151  successful attacks
+Writer Stoped By Attacker
+Number of Packets generated:  1615
+Time to generate Packets: 4.7965898513793945
+
+attack 10
+fake id
+
 
